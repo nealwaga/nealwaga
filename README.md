@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on various projects.
 - 🌱 I’m currently learning Flask and Python.
 - 💬 Ask me about anything related to Marvel and tech.
-- 📫 How to reach me: Twitter - [@nealwaga](https://twitter.com/nealwaga)
+- 📫 How to reach me: Twitter - [@nealwaga](https://twitter.com/nealwaga) , Instagram - [@nealwaga](https://instagram.com/nealwaga)
 
 ![Neal's github stats](https://github-readme-stats.vercel.app/api?username=nealwaga)
 
