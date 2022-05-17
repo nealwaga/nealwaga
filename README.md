@@ -7,7 +7,7 @@
 
 ![Neal's github stats](https://github-readme-stats.vercel.app/api?username=nealwaga)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nealwaga)](https://github.com/nealwaga/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nealwaga)](https://github.com/nealwaga/github-readme-stats) --!>
 
 <!-- - 🤔 I’m looking for help with ...
  - ⚡ Fun fact:
