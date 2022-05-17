@@ -5,5 +5,5 @@
 - 💬 Ask me about anything related to Marvel and tech.
 - 📫 How to reach me: Twitter - [@nealwaga](https://twitter.com/nealwaga)
 <!-- - 🤔 I’m looking for help with ... --!>
-<!-- - ⚡ Fun fact: --!> 
-- 👯 I’m looking to collaborate on Twitter or YouTube.
+ - ⚡ Fun fact:
+- 👯 I’m looking to collaborate on Twitter or YouTube. --!>
