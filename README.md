@@ -1,7 +1,7 @@
 ### What's up 👋
 
-- 🔭 I’m currently working on various projects.
-- 🌱 I’m currently learning Flask and Python.
+- 🔭 I’m currently working on various projects using Angular and Flask frameworks.
+- 🌱 I’m currently learning Django and Python.
 - 💬 Ask me about anything related to Marvel and tech.
 - 📫 How to reach me: Twitter - [@nealwaga](https://twitter.com/nealwaga) , Instagram - [@nealwaga](https://instagram.com/nealwaga)
 
