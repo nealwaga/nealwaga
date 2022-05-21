@@ -1,4 +1,4 @@
-### What's up 👋
+### What's up 👋, I'm Neal, a full-stack developer
 
 - 🔭 I’m currently working on various projects using Angular and Flask frameworks.
 - 🌱 I’m currently learning Django and Python.
