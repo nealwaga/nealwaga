@@ -6,7 +6,7 @@
 ## **<div align="center">I'm Neal, a full-stack developer 👨‍💻</div>**  
   
 
-- 🔭 I’m currently working on [Library System](https://github.com/nealwaga/Library-System)  
+- 🔭 I’m currently working on [The-Moringa-Tribune](https://github.com/nealwaga/The-Moringa-Tribune)  
   
 
 - 🌱 I’m currently learning Django and Python  
