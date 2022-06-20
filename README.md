@@ -6,7 +6,7 @@
 ## **<div align="center">I'm Neal, a full-stack developer 👨‍💻</div>**  
   
 
-- 🔭 I’m currently working on [Instagram](https://github.com/nealwaga/Instagram)  
+- 🔭 I’m currently working on [Asgard](https://github.com/nealwaga/Asgard)  
   
 
 - 🌱 I’m currently learning Django and Python  
