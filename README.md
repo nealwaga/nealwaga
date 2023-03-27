@@ -5,8 +5,6 @@
 
 ### <div align="center">I'm Neal, a Software Engineer  👨‍💻</div>  
   
-
-- 🔭 I’m currently working on [Cash Control](https://github.com/nealwaga/Cash-Control)  
   
 
 - 🌱 I’m currently learning Dart and Flutter  
