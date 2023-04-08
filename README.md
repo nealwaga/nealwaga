@@ -7,10 +7,10 @@
   
   
 
-- 🌱 I’m currently learning Dart and Flutter  
+- 🌱 I’m currently learning Dart and Flutter
   
 
-- ❓ Ask me about anything related to Python and Django  
+- ❓ Ask me about anything related to Python and Django
   
 
 - ⚡ Fun fact: I use tabs over spaces  
