@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Neal, a Software Engineer  👨‍💻</div>  
+### <div align="center">I'm Neal, a Software Engineer 👨‍💻</div>  
   
   
 
